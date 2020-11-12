@@ -1,0 +1,390 @@
+INFO  02:54:18 Application started. Press Ctrl+C to shut down.
+INFO  02:54:19 Application started. Press Ctrl+C to shut down.
+INFO  02:54:19 Hosting environment: Development
+INFO  02:54:19 Hosting environment: Development
+INFO  02:54:19 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:54:19 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:54:19  Http GET Request From: TokenController
+INFO  02:54:19  GetJsonWebToken method of AuthProvider Called 
+INFO  02:54:19  GenerateJWT method of AuthRepo Called 
+INFO  02:54:42  Http GET Request From: TokenController
+INFO  02:54:42  GetJsonWebToken method of AuthProvider Called 
+INFO  02:54:42  GenerateJWT method of AuthRepo Called 
+INFO  09:39:24 Application started. Press Ctrl+C to shut down.
+INFO  09:39:24 Application started. Press Ctrl+C to shut down.
+INFO  09:39:24 Hosting environment: Development
+INFO  09:39:24 Hosting environment: Development
+INFO  09:39:24 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:39:24 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:39:25  Http GET Request From: TokenController
+INFO  09:39:25  GetJsonWebToken method of AuthProvider Called 
+INFO  09:39:25  GenerateJWT method of AuthRepo Called 
+INFO  09:39:29  Http GET Request From: TokenController
+INFO  09:39:29  GetJsonWebToken method of AuthProvider Called 
+INFO  09:39:29  GenerateJWT method of AuthRepo Called 
+INFO  09:39:30  Http GET Request From: TokenController
+INFO  09:39:30  GetJsonWebToken method of AuthProvider Called 
+INFO  09:39:30  GenerateJWT method of AuthRepo Called 
+INFO  09:42:02 Application started. Press Ctrl+C to shut down.
+INFO  09:42:02 Application started. Press Ctrl+C to shut down.
+INFO  09:42:02 Hosting environment: Development
+INFO  09:42:02 Hosting environment: Development
+INFO  09:42:02 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:42:02 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:42:02  Http GET Request From: TokenController
+INFO  09:42:02  GetJsonWebToken method of AuthProvider Called 
+INFO  09:42:02  GenerateJWT method of AuthRepo Called 
+INFO  09:28:51 Application started. Press Ctrl+C to shut down.
+INFO  09:28:51 Application started. Press Ctrl+C to shut down.
+INFO  09:28:51 Hosting environment: Development
+INFO  09:28:51 Hosting environment: Development
+INFO  09:28:51 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:28:51 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:28:53  Http GET Request From: TokenController
+INFO  09:28:53  GetJsonWebToken method of AuthProvider Called 
+INFO  09:28:53  GenerateJWT method of AuthRepo Called 
+INFO  09:28:56  Http GET Request From: TokenController
+INFO  09:28:56  GetJsonWebToken method of AuthProvider Called 
+INFO  09:28:56  GenerateJWT method of AuthRepo Called 
+INFO  09:30:10  Http GET Request From: TokenController
+INFO  09:30:10  GetJsonWebToken method of AuthProvider Called 
+INFO  09:30:10  GenerateJWT method of AuthRepo Called 
+INFO  09:30:25  Http GET Request From: TokenController
+INFO  09:30:25  GetJsonWebToken method of AuthProvider Called 
+INFO  09:30:25  GenerateJWT method of AuthRepo Called 
+INFO  09:30:29  Http GET Request From: TokenController
+INFO  09:30:29  GetJsonWebToken method of AuthProvider Called 
+INFO  09:30:29  GenerateJWT method of AuthRepo Called 
+INFO  09:30:34  Http GET Request From: TokenController
+INFO  09:30:34  GetJsonWebToken method of AuthProvider Called 
+INFO  09:30:34  GenerateJWT method of AuthRepo Called 
+INFO  09:30:49  Http GET Request From: TokenController
+INFO  09:30:49  GetJsonWebToken method of AuthProvider Called 
+INFO  09:30:49  GenerateJWT method of AuthRepo Called 
+INFO  09:30:54  Http GET Request From: TokenController
+INFO  09:30:54  GetJsonWebToken method of AuthProvider Called 
+INFO  09:30:54  GenerateJWT method of AuthRepo Called 
+INFO  09:31:26  Http GET Request From: TokenController
+INFO  09:31:26  GetJsonWebToken method of AuthProvider Called 
+INFO  09:31:26  GenerateJWT method of AuthRepo Called 
+INFO  09:40:51 Application started. Press Ctrl+C to shut down.
+INFO  09:40:51 Application started. Press Ctrl+C to shut down.
+INFO  09:40:51 Hosting environment: Development
+INFO  09:40:51 Hosting environment: Development
+INFO  09:40:51 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:40:51 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:40:51  Http GET Request From: TokenController
+INFO  09:40:51  GetJsonWebToken method of AuthProvider Called 
+INFO  09:40:51  GenerateJWT method of AuthRepo Called 
+INFO  09:41:12  Http GET Request From: TokenController
+INFO  09:41:12  GetJsonWebToken method of AuthProvider Called 
+INFO  09:41:12  GenerateJWT method of AuthRepo Called 
+INFO  10:49:39 Application started. Press Ctrl+C to shut down.
+INFO  10:49:39 Application started. Press Ctrl+C to shut down.
+INFO  10:49:39 Hosting environment: Development
+INFO  10:49:39 Hosting environment: Development
+INFO  10:49:39 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  10:49:39 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  10:49:39  Http GET Request From: TokenController
+INFO  10:49:39  GetJsonWebToken method of AuthProvider Called 
+INFO  10:49:39  GenerateJWT method of AuthRepo Called 
+INFO  10:51:45  Http GET Request From: TokenController
+INFO  10:51:45  GetJsonWebToken method of AuthProvider Called 
+INFO  10:51:45  GenerateJWT method of AuthRepo Called 
+INFO  10:53:08  Http GET Request From: TokenController
+INFO  10:53:08  GetJsonWebToken method of AuthProvider Called 
+INFO  10:53:08  GenerateJWT method of AuthRepo Called 
+INFO  09:24:53 Application started. Press Ctrl+C to shut down.
+INFO  09:24:53 Application started. Press Ctrl+C to shut down.
+INFO  09:24:53 Hosting environment: Development
+INFO  09:24:53 Hosting environment: Development
+INFO  09:24:53 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:24:53 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:24:58  Http GET Request From: TokenController
+INFO  09:24:58  GetJsonWebToken method of AuthProvider Called 
+INFO  09:24:58  GenerateJWT method of AuthRepo Called 
+INFO  09:26:53  Http GET Request From: TokenController
+INFO  09:26:53  GetJsonWebToken method of AuthProvider Called 
+INFO  09:26:53  GenerateJWT method of AuthRepo Called 
+INFO  09:27:24  Http GET Request From: TokenController
+INFO  09:27:24  GetJsonWebToken method of AuthProvider Called 
+INFO  09:27:24  GenerateJWT method of AuthRepo Called 
+INFO  10:20:37 Application started. Press Ctrl+C to shut down.
+INFO  10:20:37 Application started. Press Ctrl+C to shut down.
+INFO  10:20:38 Hosting environment: Development
+INFO  10:20:38 Hosting environment: Development
+INFO  10:20:38 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  10:20:38 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  10:20:38  Http GET Request From: TokenController
+INFO  10:20:38  GetJsonWebToken method of AuthProvider Called 
+INFO  10:20:38  GenerateJWT method of AuthRepo Called 
+INFO  10:22:39  Http GET Request From: TokenController
+INFO  10:22:39  GetJsonWebToken method of AuthProvider Called 
+INFO  10:22:39  GenerateJWT method of AuthRepo Called 
+INFO  10:35:05 Application started. Press Ctrl+C to shut down.
+INFO  10:35:05 Application started. Press Ctrl+C to shut down.
+INFO  10:35:05 Hosting environment: Development
+INFO  10:35:05 Hosting environment: Development
+INFO  10:35:05 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  10:35:05 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  10:35:06  Http GET Request From: TokenController
+INFO  10:35:06  GetJsonWebToken method of AuthProvider Called 
+INFO  10:35:06  GenerateJWT method of AuthRepo Called 
+INFO  10:37:12  Http GET Request From: TokenController
+INFO  10:37:12  GetJsonWebToken method of AuthProvider Called 
+INFO  10:37:12  GenerateJWT method of AuthRepo Called 
+INFO  10:39:56  Http GET Request From: TokenController
+INFO  10:39:56  GetJsonWebToken method of AuthProvider Called 
+INFO  10:39:56  GenerateJWT method of AuthRepo Called 
+INFO  10:43:04  Http GET Request From: TokenController
+INFO  10:43:04  GetJsonWebToken method of AuthProvider Called 
+INFO  10:43:04  GenerateJWT method of AuthRepo Called 
+INFO  10:50:07 Application started. Press Ctrl+C to shut down.
+INFO  10:50:07 Application started. Press Ctrl+C to shut down.
+INFO  10:50:07 Hosting environment: Development
+INFO  10:50:07 Hosting environment: Development
+INFO  10:50:07 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  10:50:07 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  10:50:07  Http GET Request From: TokenController
+INFO  10:50:07  GetJsonWebToken method of AuthProvider Called 
+INFO  10:50:07  GenerateJWT method of AuthRepo Called 
+INFO  10:51:27  Http GET Request From: TokenController
+INFO  10:51:27  GetJsonWebToken method of AuthProvider Called 
+INFO  10:51:27  GenerateJWT method of AuthRepo Called 
+INFO  10:55:51  Http GET Request From: TokenController
+INFO  10:55:51  GetJsonWebToken method of AuthProvider Called 
+INFO  10:55:51  GenerateJWT method of AuthRepo Called 
+INFO  10:58:42  Http GET Request From: TokenController
+INFO  10:58:42  GetJsonWebToken method of AuthProvider Called 
+INFO  10:58:42  GenerateJWT method of AuthRepo Called 
+INFO  11:00:42  Http GET Request From: TokenController
+INFO  11:00:42  GetJsonWebToken method of AuthProvider Called 
+INFO  11:00:42  GenerateJWT method of AuthRepo Called 
+INFO  09:25:48 Application started. Press Ctrl+C to shut down.
+INFO  09:25:48 Application started. Press Ctrl+C to shut down.
+INFO  09:25:48 Hosting environment: Development
+INFO  09:25:48 Hosting environment: Development
+INFO  09:25:48 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:25:48 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:25:50  Http GET Request From: TokenController
+INFO  09:25:50  GetJsonWebToken method of AuthProvider Called 
+INFO  09:25:50  GenerateJWT method of AuthRepo Called 
+INFO  09:27:54  Http GET Request From: TokenController
+INFO  09:27:54  GetJsonWebToken method of AuthProvider Called 
+INFO  09:27:54  GenerateJWT method of AuthRepo Called 
+INFO  09:28:13  Http GET Request From: TokenController
+INFO  09:28:13  GetJsonWebToken method of AuthProvider Called 
+INFO  09:28:13  GenerateJWT method of AuthRepo Called 
+INFO  09:31:36  Http GET Request From: TokenController
+INFO  09:31:36  GetJsonWebToken method of AuthProvider Called 
+INFO  09:31:36  GenerateJWT method of AuthRepo Called 
+INFO  04:44:30 Application started. Press Ctrl+C to shut down.
+INFO  04:44:30 Application started. Press Ctrl+C to shut down.
+INFO  04:44:30 Hosting environment: Development
+INFO  04:44:30 Hosting environment: Development
+INFO  04:44:30 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  04:44:30 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  04:44:31  Http GET Request From: TokenController
+INFO  04:44:31  GetJsonWebToken method of AuthProvider Called 
+INFO  04:44:31  GenerateJWT method of AuthRepo Called 
+INFO  04:46:29  Http GET Request From: TokenController
+INFO  04:46:29  GetJsonWebToken method of AuthProvider Called 
+INFO  04:46:29  GenerateJWT method of AuthRepo Called 
+INFO  08:20:45 Application started. Press Ctrl+C to shut down.
+INFO  08:20:45 Application started. Press Ctrl+C to shut down.
+INFO  08:20:45 Hosting environment: Development
+INFO  08:20:45 Hosting environment: Development
+INFO  08:20:45 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  08:20:45 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  08:20:47  Http GET Request From: TokenController
+INFO  08:20:47  GetJsonWebToken method of AuthProvider Called 
+INFO  08:20:47  GenerateJWT method of AuthRepo Called 
+INFO  08:23:47  Http GET Request From: TokenController
+INFO  08:23:47  GetJsonWebToken method of AuthProvider Called 
+INFO  08:23:47  GenerateJWT method of AuthRepo Called 
+INFO  08:29:18  Http GET Request From: TokenController
+INFO  08:29:18  GetJsonWebToken method of AuthProvider Called 
+INFO  08:29:18  GenerateJWT method of AuthRepo Called 
+INFO  12:47:58 Application started. Press Ctrl+C to shut down.
+INFO  12:47:58 Application started. Press Ctrl+C to shut down.
+INFO  12:47:58 Hosting environment: Development
+INFO  12:47:58 Hosting environment: Development
+INFO  12:47:58 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  12:47:58 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  12:47:59  Http GET Request From: TokenController
+INFO  12:47:59  GetJsonWebToken method of AuthProvider Called 
+INFO  12:47:59  GenerateJWT method of AuthRepo Called 
+INFO  12:49:52  Http GET Request From: TokenController
+INFO  12:49:52  GetJsonWebToken method of AuthProvider Called 
+INFO  12:49:52  GenerateJWT method of AuthRepo Called 
+INFO  12:52:03  Http GET Request From: TokenController
+INFO  12:52:03  GetJsonWebToken method of AuthProvider Called 
+INFO  12:52:03  GenerateJWT method of AuthRepo Called 
+INFO  12:55:54  Http GET Request From: TokenController
+INFO  12:55:54  GetJsonWebToken method of AuthProvider Called 
+INFO  12:55:54  GenerateJWT method of AuthRepo Called 
+INFO  02:30:15 Application started. Press Ctrl+C to shut down.
+INFO  02:30:15 Application started. Press Ctrl+C to shut down.
+INFO  02:30:15 Hosting environment: Development
+INFO  02:30:15 Hosting environment: Development
+INFO  02:30:15 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:30:15 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:30:16  Http GET Request From: TokenController
+INFO  02:30:16  GetJsonWebToken method of AuthProvider Called 
+INFO  02:30:16  GenerateJWT method of AuthRepo Called 
+INFO  02:33:35  Http GET Request From: TokenController
+INFO  02:33:35  GetJsonWebToken method of AuthProvider Called 
+INFO  02:33:35  GenerateJWT method of AuthRepo Called 
+INFO  02:37:37 Application started. Press Ctrl+C to shut down.
+INFO  02:37:37 Application started. Press Ctrl+C to shut down.
+INFO  02:37:37 Hosting environment: Development
+INFO  02:37:37 Hosting environment: Development
+INFO  02:37:37 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:37:37 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:37:37  Http GET Request From: TokenController
+INFO  02:37:37  GetJsonWebToken method of AuthProvider Called 
+INFO  02:37:37  GenerateJWT method of AuthRepo Called 
+INFO  02:39:26  Http GET Request From: TokenController
+INFO  02:39:26  GetJsonWebToken method of AuthProvider Called 
+INFO  02:39:26  GenerateJWT method of AuthRepo Called 
+INFO  03:33:56 Application started. Press Ctrl+C to shut down.
+INFO  03:33:56 Application started. Press Ctrl+C to shut down.
+INFO  03:33:56 Hosting environment: Development
+INFO  03:33:56 Hosting environment: Development
+INFO  03:33:56 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  03:33:56 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  03:33:59  Http GET Request From: TokenController
+INFO  03:33:59  GetJsonWebToken method of AuthProvider Called 
+INFO  03:33:59  GenerateJWT method of AuthRepo Called 
+INFO  03:36:47  Http GET Request From: TokenController
+INFO  03:36:47  GetJsonWebToken method of AuthProvider Called 
+INFO  03:36:47  GenerateJWT method of AuthRepo Called 
+INFO  12:41:48 Application started. Press Ctrl+C to shut down.
+INFO  12:41:48 Application started. Press Ctrl+C to shut down.
+INFO  12:41:48 Hosting environment: Development
+INFO  12:41:48 Hosting environment: Development
+INFO  12:41:48 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  12:41:48 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  12:41:51  Http GET Request From: TokenController
+INFO  12:41:51  GetJsonWebToken method of AuthProvider Called 
+INFO  12:41:51  GenerateJWT method of AuthRepo Called 
+INFO  12:43:35  Http GET Request From: TokenController
+INFO  12:43:35  GetJsonWebToken method of AuthProvider Called 
+INFO  12:43:35  GenerateJWT method of AuthRepo Called 
+INFO  12:57:32 Application started. Press Ctrl+C to shut down.
+INFO  12:57:32 Application started. Press Ctrl+C to shut down.
+INFO  12:57:32 Hosting environment: Development
+INFO  12:57:32 Hosting environment: Development
+INFO  12:57:32 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  12:57:32 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  12:57:32  Http GET Request From: TokenController
+INFO  12:57:32  GetJsonWebToken method of AuthProvider Called 
+INFO  12:57:32  GenerateJWT method of AuthRepo Called 
+INFO  01:00:31  Http GET Request From: TokenController
+INFO  01:00:31  GetJsonWebToken method of AuthProvider Called 
+INFO  01:00:31  GenerateJWT method of AuthRepo Called 
+INFO  01:06:08  Http GET Request From: TokenController
+INFO  01:06:08  GetJsonWebToken method of AuthProvider Called 
+INFO  01:06:08  GenerateJWT method of AuthRepo Called 
+INFO  01:10:26  Http GET Request From: TokenController
+INFO  01:10:26  GetJsonWebToken method of AuthProvider Called 
+INFO  01:10:26  GenerateJWT method of AuthRepo Called 
+INFO  03:12:13 Application started. Press Ctrl+C to shut down.
+INFO  03:12:13 Application started. Press Ctrl+C to shut down.
+INFO  03:12:13 Hosting environment: Development
+INFO  03:12:13 Hosting environment: Development
+INFO  03:12:13 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  03:12:13 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  03:12:18  Http GET Request From: TokenController
+INFO  03:12:18  GetJsonWebToken method of AuthProvider Called 
+INFO  03:12:18  GenerateJWT method of AuthRepo Called 
+INFO  03:22:19  Http GET Request From: TokenController
+INFO  03:22:19  GetJsonWebToken method of AuthProvider Called 
+INFO  03:22:19  GenerateJWT method of AuthRepo Called 
+INFO  03:28:13  Http GET Request From: TokenController
+INFO  03:28:13  GetJsonWebToken method of AuthProvider Called 
+INFO  03:28:13  GenerateJWT method of AuthRepo Called 
+INFO  03:40:35  Http GET Request From: TokenController
+INFO  03:40:35  GetJsonWebToken method of AuthProvider Called 
+INFO  03:40:35  GenerateJWT method of AuthRepo Called 
+INFO  05:26:51 Application started. Press Ctrl+C to shut down.
+INFO  05:26:52 Application started. Press Ctrl+C to shut down.
+INFO  05:26:52 Hosting environment: Development
+INFO  05:26:52 Hosting environment: Development
+INFO  05:26:52 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  05:26:52 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  05:26:57  Http GET Request From: TokenController
+INFO  05:26:57  GetJsonWebToken method of AuthProvider Called 
+INFO  05:26:57  GenerateJWT method of AuthRepo Called 
+INFO  05:29:14  Http GET Request From: TokenController
+INFO  05:29:14  GetJsonWebToken method of AuthProvider Called 
+INFO  05:29:14  GenerateJWT method of AuthRepo Called 
+INFO  05:53:04 Application started. Press Ctrl+C to shut down.
+INFO  05:53:04 Application started. Press Ctrl+C to shut down.
+INFO  05:53:04 Hosting environment: Development
+INFO  05:53:04 Hosting environment: Development
+INFO  05:53:04 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  05:53:04 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  05:53:04  Http GET Request From: TokenController
+INFO  05:53:04  GetJsonWebToken method of AuthProvider Called 
+INFO  05:53:04  GenerateJWT method of AuthRepo Called 
+INFO  05:54:12  Http GET Request From: TokenController
+INFO  05:54:12  GetJsonWebToken method of AuthProvider Called 
+INFO  05:54:12  GenerateJWT method of AuthRepo Called 
+INFO  06:16:14 Application started. Press Ctrl+C to shut down.
+INFO  06:16:14 Application started. Press Ctrl+C to shut down.
+INFO  06:16:14 Hosting environment: Development
+INFO  06:16:14 Hosting environment: Development
+INFO  06:16:14 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  06:16:14 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  06:16:14  Http GET Request From: TokenController
+INFO  06:16:14  GetJsonWebToken method of AuthProvider Called 
+INFO  06:16:14  GenerateJWT method of AuthRepo Called 
+INFO  06:18:22  Http GET Request From: TokenController
+INFO  06:18:22  GetJsonWebToken method of AuthProvider Called 
+INFO  06:18:22  GenerateJWT method of AuthRepo Called 
+INFO  06:32:31 Application started. Press Ctrl+C to shut down.
+INFO  06:32:31 Application started. Press Ctrl+C to shut down.
+INFO  06:32:31 Hosting environment: Development
+INFO  06:32:31 Hosting environment: Development
+INFO  06:32:31 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  06:32:31 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  06:32:31  Http GET Request From: TokenController
+INFO  06:32:31  GetJsonWebToken method of AuthProvider Called 
+INFO  06:32:31  GenerateJWT method of AuthRepo Called 
+INFO  06:35:51  Http GET Request From: TokenController
+INFO  06:35:51  GetJsonWebToken method of AuthProvider Called 
+INFO  06:35:51  GenerateJWT method of AuthRepo Called 
+INFO  09:38:12 Application started. Press Ctrl+C to shut down.
+INFO  09:38:12 Application started. Press Ctrl+C to shut down.
+INFO  09:38:12 Hosting environment: Development
+INFO  09:38:12 Hosting environment: Development
+INFO  09:38:12 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:38:12 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:38:13  Http GET Request From: TokenController
+INFO  09:38:13  GetJsonWebToken method of AuthProvider Called 
+INFO  09:38:13  GenerateJWT method of AuthRepo Called 
+INFO  01:03:45 Application started. Press Ctrl+C to shut down.
+INFO  01:03:45 Application started. Press Ctrl+C to shut down.
+INFO  01:03:45 Hosting environment: Development
+INFO  01:03:45 Hosting environment: Development
+INFO  01:03:45 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  01:03:45 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  01:03:50  Http GET Request From: TokenController
+INFO  01:03:50  GetJsonWebToken method of AuthProvider Called 
+INFO  01:03:50  GenerateJWT method of AuthRepo Called 
+INFO  01:07:20  Http GET Request From: TokenController
+INFO  01:07:20  GetJsonWebToken method of AuthProvider Called 
+INFO  01:07:20  GenerateJWT method of AuthRepo Called 
+INFO  04:07:02 Application started. Press Ctrl+C to shut down.
+INFO  04:07:02 Application started. Press Ctrl+C to shut down.
+INFO  04:07:02 Hosting environment: Development
+INFO  04:07:02 Hosting environment: Development
+INFO  04:07:02 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  04:07:02 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  04:07:03  Http GET Request From: TokenController
+INFO  04:07:03  GetJsonWebToken method of AuthProvider Called 
+INFO  04:07:03  GenerateJWT method of AuthRepo Called 
+INFO  04:07:23  Http GET Request From: TokenController
+INFO  04:07:23  GetJsonWebToken method of AuthProvider Called 
+INFO  04:07:23  GenerateJWT method of AuthRepo Called 
